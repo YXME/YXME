@@ -1,16 +1,14 @@
-### Hi there 👋
+## おはよう, YXME there 👋
 
-<!--
-**YXME/YXME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Kotlin
+- 🔭 I’m currently working on :
+  
+  [**LUTECE Platform**](https://lutece.paris.fr) **-** The platform created and maintained by Paris City.
 
-Here are some ideas to get you started:
+  [**CiteLibre**](https://lutece.paris.fr/lutece/citelibre.html) **-** An open-source software suite based on LUTECE Platform.
+  
+  **Kiroku -** My own android application to manage my manga library.
+  
+  **Zenythia -** A discord bot to manage D&D sessions with my friends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  I'm also contributing to the translation in French of small projects like the [**Time Planner**](https://github.com/v1tzor/TimePlanner) app.
