@@ -18,7 +18,7 @@
   
   [**LUTECE Platform**](https://lutece.paris.fr) **-** The platform created and maintained by Paris City.
 
-  [**CiteLibre**](https://lutece.paris.fr/lutece/citelibre.html) **-** An open-source software suite based on LUTECE Platform.
+  [**CiteLibre**](https://citelibre.paris.fr/fr/) **-** An open-source software suite based on LUTECE Platform.
   
   **Kiroku -** My own android application to manage my manga library.
   
