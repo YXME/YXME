@@ -22,7 +22,7 @@
   
   **Kiroku -** My own android application to manage my manga library.
   
-  **Zenythia -** A discord bot to manage D&D sessions with my friends.
+  [**Mirki (Code Name: Tourte)**](https://github.com/KisshuArumi/Tourte) **-** A discord bot to manage D&D sessions with my friends.
 
   I'm also contributing to the translation in French of small projects like the [**Time Planner**](https://github.com/v1tzor/TimePlanner) app.
 
